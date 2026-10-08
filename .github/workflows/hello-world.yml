@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: Echo text
-        runs: 'echo "Hello, world!"'
+        run: 'echo "Hello, world!"'
